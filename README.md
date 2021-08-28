@@ -1,1 +1,1 @@
-Angular js fundamentals
+AngularJS fundamentals
